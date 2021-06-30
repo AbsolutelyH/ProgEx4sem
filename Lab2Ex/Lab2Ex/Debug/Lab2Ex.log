@@ -1,0 +1,4 @@
+﻿  Lab2Ex.cpp
+C:\Users\Илья\source\repos\Lab2Ex\Lab2Ex\Lab2Ex.cpp(12,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Илья\source\repos\Lab2Ex\Lab2Ex\Lab2Ex.cpp(74,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab2Ex.vcxproj -> C:\Users\Илья\source\repos\Lab2Ex\Debug\Lab2Ex.exe
