@@ -1,0 +1,5 @@
+﻿  Lab3Ex.cpp
+C:\Users\Илья\source\repos\Lab3Ex\Lab3Ex\Lab3Ex.cpp(53,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\Lab3Ex\Lab3Ex\Lab3Ex.cpp(54,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Илья\source\repos\Lab3Ex\Lab3Ex\Lab3Ex.cpp(68,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab3Ex.vcxproj -> C:\Users\Илья\source\repos\Lab3Ex\Debug\Lab3Ex.exe
