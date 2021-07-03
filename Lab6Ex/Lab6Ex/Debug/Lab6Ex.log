@@ -1,0 +1,4 @@
+﻿  Lab6Ex.cpp
+C:\Users\Илья\source\repos\Lab6Ex\Lab6Ex\Lab6Ex.cpp(22,20): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Илья\source\repos\Lab6Ex\Lab6Ex\Lab6Ex.cpp(38,38): warning C4101: var: неиспользованная локальная переменная
+  Lab6Ex.vcxproj -> C:\Users\Илья\source\repos\Lab6Ex\Debug\Lab6Ex.exe
